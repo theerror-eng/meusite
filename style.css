@@ -33,7 +33,7 @@ body{
   font-family: Monospace;
   width:25ch;
   border-right: 2px solid white;
-  font-size: 30px;
+  font-size: 22px;
   color: #ccc;
   overflow: hidden;
   white-space: nowrap;
@@ -453,7 +453,7 @@ section{
   display: grid;
   align-items: center;
   height: 270px; 
-  margin-bottom: 20px;
+  margin-bottom: 90px;
 }
 .hidden {
   color:white;
